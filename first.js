@@ -1,5 +1,7 @@
 <script>
   window.onload = function () {
-    alert('Hello World!');
+   
+   
+    console.log("ABC");
   };
 </script>
